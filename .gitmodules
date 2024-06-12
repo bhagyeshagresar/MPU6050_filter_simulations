@@ -1,0 +1,3 @@
+[submodule "RC_filter"]
+	path = RC_filter
+	url = https://github.com/bhagyeshagresar/mpu6050_filter_simulator
